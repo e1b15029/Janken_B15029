@@ -8,7 +8,11 @@ class Board {
     image(choki, 150, 0, 150, 150);
     image(pa, 300, 0, 150, 150);
   }
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> origin/add_game_result_display
 void updateCommentArea(String comment){
  fill(#000000);
  rect(0,150,450,75);
@@ -21,6 +25,10 @@ void updateCommentArea(String comment){
  text(scoreMessage, 225, 200);
 }
 
+<<<<<<< HEAD
+=======
+  
+>>>>>>> origin/add_game_result_display
 
   void updateResultArea(String result) {
     fill(#000000);
